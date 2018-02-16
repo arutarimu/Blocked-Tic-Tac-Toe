@@ -1,4 +1,4 @@
-// Deok-Hwan Kim 250842888 for CS2210B
+// Made by Alex Kim (Arta) , using resources from UWO Department of Computer Science
 // BlockedTicTacToe.java implements a feature used for a new type of Tic-Tac-Toe
 // It is a standard tic-tac-toe, except the game is played with one of the tiles "blocked", unable to play that block
 // Uses TTTDictionary as a data type to keep track of everything
